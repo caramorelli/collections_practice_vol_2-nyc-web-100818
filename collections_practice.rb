@@ -45,7 +45,10 @@ def merge_data(key, data)
       merge << name.merge(ele[(name.values).first])
     end
   end
+<<<<<<< HEAD
   merge
+=======
+>>>>>>> abdaf8115925c6e5c09e3af55e529371514a8b4d
 end 
 
 
